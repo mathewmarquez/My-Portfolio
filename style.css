@@ -94,7 +94,7 @@ textarea:focus {
 }
 
 .title {
-  font-size: 100px;
+  font-size: 90px;
   margin-bottom: 20px;
   text-align: left;
   line-height: 1;
@@ -622,6 +622,7 @@ footer {
 .footer__social--link,
 .footer__copyright {
   color: white;
+  font-size: 14px;
 }
 
 /* Small phones, tablets, large smart phones */
